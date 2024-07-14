@@ -5,7 +5,7 @@ public class contador {
         Scanner scanner = new Scanner(System.in);
 
         try {
-            
+
             System.out.println("Digite o primeiro número:");
             int primeiroNumero = scanner.nextInt();
 
